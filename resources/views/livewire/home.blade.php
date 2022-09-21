@@ -1,4 +1,6 @@
-
+<div>
+    
+</div>
                         <div class="section-content vcentered">
 
                             <div class="row">
@@ -16,7 +18,7 @@
                                         <p class="text-light">Découvrez moi en quelques cliques</p>
 
                                         <div class="header-buttons">
-                                            <a href="#about-me" class="btn btn-primary">Apropos de moi</a>
+                                            <a href="#about-me" class="btn btn-primary">A propos de moi</a>
                                         </div>
                                     </div>
                                 </div>

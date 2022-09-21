@@ -42,6 +42,12 @@
                             <span class="link-text">Contact</span>
                         </a>
                     </li>
+                    <li>
+                        <a href="#contact" class="nav-anim">
+                            <span class="menu-icon lnr lnr-phone-handset"></span>
+                            <span class="link-text">Blog</span>
+                        </a>
+                    </li>
                 </ul>
 
                 <div class="social-links">
