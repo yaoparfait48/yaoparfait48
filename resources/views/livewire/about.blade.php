@@ -34,7 +34,7 @@
 
                         <li>
                             <span class="title">Adresse</span>
-                            <span class="value">Abidjan Port-Bouet</span>
+                            <span class="value">Abidjan Treichville</span>
                         </li>
 
                         <li>
