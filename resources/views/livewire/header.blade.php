@@ -44,7 +44,7 @@
                     </li>
                     <li>
                         <a href="#contact" class="nav-anim">
-                            <span class="menu-icon lnr lnr-phone-handset"></span>
+                            <span class="menu-icon lnr lnr-book"></span>
                             <span class="link-text">Blog</span>
                         </a>
                     </li>

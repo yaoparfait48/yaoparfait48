@@ -154,7 +154,7 @@
                             <div class="portfolio-item-img">
                                 <img src="{{ asset('img/portfolio/images/s1.png') }}" style="height: 130px" alt="Media Project 1"
                                     title="" />
-                                <a href="sunshine.html" class="ajax-page-load"></a>
+                                <a href="#" class="ajax-page-load"></a>
                             </div>
 
                             <i class="far fa-file-alt"></i>
